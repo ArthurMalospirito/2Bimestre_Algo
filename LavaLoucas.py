@@ -51,7 +51,7 @@ def metal():
     print("Os Metais estão limpos!")
 
 #rodando as funções
-escolha=input("escolha o modo(vidro, plastico, metal)")
+escolha=input("escolha o modo(vidro, plastico, metal) ")
 
 if escolha =="vidro":
     vidro()
